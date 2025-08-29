@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434162045767",
+    "firebase_url": "https://aquavend-e3d60-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aquavend-e3d60",
+    "storage_bucket": "aquavend-e3d60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434162045767:android:898fa9e44b3587d2bdb262",
+        "android_client_info": {
+          "package_name": "com.aquavend.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434162045767-ehp9ifel7jn7ju3f56evo7hhsqmgo0k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByepvH7bFILBfLlcj_WyrWis93PcrsMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434162045767-ehp9ifel7jn7ju3f56evo7hhsqmgo0k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
