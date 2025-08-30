@@ -8,8 +8,8 @@ const Welcome = () => {
     <div className="welcome-container">
       <div className="welcome-content">
         <img src={logo} alt="Aquavend Logo" className="welcome-logo" />
-        <h1 className="welcome-title">Welcome to AquaGo</h1>
-        <p className="welcome-tagline">Your smart water vending solution.</p>
+        <h1 className="welcome-title">Automated. Connected. Efficient.</h1>
+        <p className="welcome-tagline">With intelligent automation powered by IoT, this system ensures clean, efficient, and user-friendly water dispensing at all times.</p>
         <div className="welcome-buttons">
           <Link to="/login" className="btn-primary">
             Login

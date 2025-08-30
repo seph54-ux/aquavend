@@ -133,8 +133,8 @@ const MachineDashboard = () => {
 
     const handleDeleteMachine = async (machineId) => {
         const { value } = await Dialog.confirm({
-            title: 'Confirm Release',
-            message: 'Are you sure you want to release this machine?',
+            title: 'Confirm Removal',
+            message: 'Are you sure you want to remove this machine?',
             okButtonTitle: 'Yes, Release',
             cancelButtonTitle: 'Cancel',
         });
