@@ -1,10 +1,10 @@
-# AquaGo - IoT Water Dispensing Management App
+# AquaVend - IoT Water Dispensing Management App
 
-This is a web application for the IoT water Dispensing Management. It is named "AquaGo".
+This is a web application for the IoT water Dispensing Management. It is named "AquaVend".
 
 ## About The Project
 
-AquaGo is a web application for admins of the IoT water dispenser machine. The application is built with React and Vite, and it uses Firebase for authentication and hosting. This allows the admin to monitor the machines remotely given the parameters displayed in the app's dashboard once the machine is registered in an account.
+AquaVend is a web application for admins of the IoT water dispenser machine. The application is built with React and Vite, and it uses Firebase for authentication and hosting. This allows the admin to monitor the machines remotely given the parameters displayed in the app's dashboard once the machine is registered in an account.
 
 ### Built With
 
