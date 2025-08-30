@@ -11,10 +11,10 @@ const Welcome = () => {
         <h1 className="welcome-title">Welcome to AquaGo</h1>
         <p className="welcome-tagline">Your smart water vending solution.</p>
         <div className="welcome-buttons">
-          <Link to="/login" className="welcome-button primary">
+          <Link to="/login" className="btn-primary">
             Login
           </Link>
-          <Link to="/signup" className="welcome-button secondary">
+          <Link to="/signup" className="btn-secondary">
             Sign Up
           </Link>
         </div>
